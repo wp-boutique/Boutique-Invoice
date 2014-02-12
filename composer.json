@@ -1,0 +1,15 @@
+{
+    "name": "boutique/invoice",
+    "description": "Invoice concrete for Boutique shop.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tkjaergaard",
+            "email": "tkj@tkjaergaard.dk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
